@@ -1,0 +1,16 @@
+#read-more-cfp-container {
+  text-align: center;
+  padding: 30px;
+}
+a {
+  cursor: pointer;
+}
+#tf-program {
+  padding-top: 60px;
+}
+#tf-accepted-papers ul {
+  list-style-type: none;
+}
+#tf-accepted-papers ul li {
+  margin-bottom: 20px;
+}
